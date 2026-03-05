@@ -1,8 +1,6 @@
 <h1 align="center" style="font-size: 48px; font-weight: bold; margin-bottom: 20px;">WriterClaw</h1>
 
-<p align="center">
-  <img src="./docs/images/banner.png" alt="WriterClaw Banner" width="100%"/>
-</p>
+
 
 <p align="center">
   <a href="https://github.com/Malkielz/WriterClaw">
