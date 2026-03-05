@@ -4,9 +4,7 @@
 
 
 
-<p align="center">
-  <img src="./docs/images/banner.png" alt="WriterClaw Banner" width="100%"/>
-</p>
+
 
 <p align="center">
   <a href="https://github.com/yourusername/WriterClaw">
@@ -35,8 +33,10 @@
 <p align="center" style="font-size: 18px; color: #666;">
   WriterClaw - AI-Powered Creative Writing Assistant
 </p>
+<p align="center">
+  <img src="./docs/images/banner.png" alt="WriterClaw Banner" width="100%"/>
+</p>
 
----
 
 <h2 style="font-size: 28px; font-weight: bold; border-bottom: 2px solid #333; padding-bottom: 10px;">Table of Contents</h2>
 
@@ -394,7 +394,7 @@ docker run -d -p 3000:3000 writerclaw-frontend</code></pre>
 <h3 style="font-size: 22px; font-weight: bold; margin-top: 30px;">Document Detail</h3>
 
 <p align="center">
-  <img src="./docs/images/api-settings.png" alt="Document Detail" width="800"/>
+  <img src="./docs/images/settings.png" alt="Document Detail" width="800"/>
 </p>
 
 ---
