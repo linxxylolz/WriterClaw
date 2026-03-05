@@ -31,7 +31,9 @@
 <p align="center" style="font-size: 18px; color: #666;">
   WriterClaw - AI驱动创意文稿写作助手
 </p>
-
+<p align="center">
+  <img src="./docs/images/banner.png" alt="WriterClaw Banner" width="100%"/>
+</p>
 ---
 
 <h2 style="font-size: 28px; font-weight: bold; border-bottom: 2px solid #333; padding-bottom: 10px;">目录</h2>
